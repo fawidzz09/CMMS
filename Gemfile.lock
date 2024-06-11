@@ -100,7 +100,7 @@ GEM
     tzinfo (0.3.35)
     warden (1.2.1)
       rack (>= 1.0)
-    will_paginate (3.0.4)
+    will_paginate (4.0.1)
     workflow (0.8.7)
 
 PLATFORMS
